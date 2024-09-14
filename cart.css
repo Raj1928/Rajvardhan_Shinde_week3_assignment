@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+header {
+    /* background: rgba(168, 37, 37, 0.338); */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.cart-page {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+td{
+    color: white;
+}
+th {
+    background-color: black;
+    font-weight: bold;
+}
+
+
+.cart-total {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 20px;
+}
